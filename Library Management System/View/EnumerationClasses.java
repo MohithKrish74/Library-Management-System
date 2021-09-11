@@ -42,11 +42,11 @@ public class EnumerationClasses
 
     public enum Person{
         STUDENT,
-        LIBRARIAN,
+        LIBRARIAN
     }
 
     public enum Confirm{
         YES,
-        NO,
+        NO
     }
 }
